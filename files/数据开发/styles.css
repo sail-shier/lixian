@@ -3081,8 +3081,8 @@
   top:225px;
   width:17px;
   height:17px;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:16px;
   color:#BFBFBF;
@@ -5045,8 +5045,8 @@
   top:101px;
   width:24px;
   height:26px;
-  font-family:'anticon';
-  font-weight:400;
+  font-family:'anticon', 'anticon Medium';
+  font-weight:500;
   font-style:normal;
   font-size:56px;
   color:#00A854;
